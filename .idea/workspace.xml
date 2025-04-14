@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9b748332-8d5b-483f-8241-8bce62af142a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/cses/increasingArray.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cses/repetitions.py" beforeDir="false" afterPath="$PROJECT_DIR$/cses/repetitions.py" afterDir="false" />
     </list>
@@ -32,24 +33,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.__init__.executor": "Run",
-    "Python.missingNumber.executor": "Run",
-    "Python.repetitions.executor": "Run",
-    "Python.weirdAlgorithm.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/Project/python/300baicodethieunhi",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.__init__.executor&quot;: &quot;Run&quot;,
+    &quot;Python.missingNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Python.repetitions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.weirdAlgorithm.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Project/python/300baicodethieunhi&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Project\python\300baicodethieunhi\300baicode" />
@@ -79,7 +80,8 @@
       <workItem from="1742780782413" duration="334000" />
       <workItem from="1742808620963" duration="289000" />
       <workItem from="1743526610304" duration="687000" />
-      <workItem from="1744620778148" duration="3040000" />
+      <workItem from="1744620778148" duration="3086000" />
+      <workItem from="1744633146856" duration="1533000" />
     </task>
     <servers />
   </component>
