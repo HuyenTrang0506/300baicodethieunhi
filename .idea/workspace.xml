@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9b748332-8d5b-483f-8241-8bce62af142a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/cses/twoKnights.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cses/twoSets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cses/bitStrings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cses/coinPiles.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cses/trailingZeros.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,6 +37,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.__init__.executor": "Run",
+    "Python.bitStrings.executor": "Run",
+    "Python.coinPiles.executor": "Run",
     "Python.increasingArray.executor": "Run",
     "Python.missingNumber.executor": "Run",
     "Python.numberSpiral.executor": "Run",
@@ -87,7 +90,8 @@
       <workItem from="1743526610304" duration="687000" />
       <workItem from="1744620778148" duration="3086000" />
       <workItem from="1744633146856" duration="4740000" />
-      <workItem from="1744698106584" duration="2891000" />
+      <workItem from="1744698106584" duration="5284000" />
+      <workItem from="1744737152753" duration="5406000" />
     </task>
     <servers />
   </component>
@@ -99,6 +103,8 @@
     <SUITE FILE_PATH="coverage/300baicodethieunhi$permutations.coverage" NAME="permutations Coverage Results" MODIFIED="1744640139660" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cses" />
     <SUITE FILE_PATH="coverage/300baicodethieunhi$repetitions.coverage" NAME="repetitions Coverage Results" MODIFIED="1744623821204" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cses" />
     <SUITE FILE_PATH="coverage/300baicodethieunhi$increasingArray.coverage" NAME="increasingArray Coverage Results" MODIFIED="1744639561912" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cses" />
+    <SUITE FILE_PATH="coverage/300baicodethieunhi$coinPiles.coverage" NAME="coinPiles Coverage Results" MODIFIED="1744742858118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cses" />
+    <SUITE FILE_PATH="coverage/300baicodethieunhi$bitStrings.coverage" NAME="bitStrings Coverage Results" MODIFIED="1744702588549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cses" />
     <SUITE FILE_PATH="coverage/300baicodethieunhi$numberSpiral.coverage" NAME="numberSpiral Coverage Results" MODIFIED="1744643746915" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cses" />
     <SUITE FILE_PATH="coverage/300baicodethieunhi$weirdAlgorithm.coverage" NAME="weirdAlgorithm Coverage Results" MODIFIED="1744621227531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/300baicode" />
     <SUITE FILE_PATH="coverage/300baicodethieunhi$missingNumber.coverage" NAME="missingNumber Coverage Results" MODIFIED="1744622232325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cses" />
